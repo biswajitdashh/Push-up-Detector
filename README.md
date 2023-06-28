@@ -1,9 +1,7 @@
 # Push-up-Detector
-
 To run the given code, follow these steps:
 
-Ensure that you have Python installed on your system. 
-If Python is not installed, you can download and install the latest version from the official Python website (https://www.python.org/).
+Ensure that you have Python installed on your system. If Python is not installed, you can download and install the latest version from the official Python website (https://www.python.org/).
 
 Install the necessary libraries by executing the following command in your command prompt or terminal:
 ```python
