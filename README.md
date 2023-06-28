@@ -6,7 +6,9 @@ Ensure that you have Python installed on your system.
 If Python is not installed, you can download and install the latest version from the official Python website (https://www.python.org/).
 
 Install the necessary libraries by executing the following command in your command prompt or terminal:
+```python
 pip install opencv-python cvzone numpy
+```
 
 Create a new Python file and copy the provided code into it.
 
@@ -17,7 +19,9 @@ Connect a webcam or camera to your computer.
 Open the terminal or command prompt and navigate to the directory where you saved the Python file.
 
 Run the script by executing the following command:
+```python
 python pushup_detector.py
+```
 
 A new window will open, displaying the video stream from your webcam with the push-up detection overlay.
 
